@@ -15,7 +15,7 @@
 #   new_window: false
 #   highlight: false
 - name: Free Consultation
-  link: https://calendly.com/mmresults/call
+  link: #call
   new_window: true
   highlight: true
 # - name: Sign Up
