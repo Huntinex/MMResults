@@ -14,10 +14,10 @@
 #   link: /contact/
 #   new_window: false
 #   highlight: false
-- name: Free Consultation
-  link: "#call"
-  new_window: false
-  highlight: true
+# - name: Free Consultation
+#   link: "#call"
+#   new_window: false
+#   highlight: true
 # - name: Sign Up
 #   link: /
 #   new_window: true
